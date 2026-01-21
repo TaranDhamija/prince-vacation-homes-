@@ -5,12 +5,19 @@ import { GuestReviewsCarousel } from "@/app/components/premium/GuestReviewsCarou
 import { AmenitiesSection } from "@/app/components/premium/AmenitiesSection";
 import { CTASection } from "@/app/components/premium/CTASection";
 
+// Image imports
+import firepitLounge from "@/assets/featuredpropertiesimages/firepit lounge.png";
+import secondListing from "@/assets/featuredpropertiesimages/second listing.jpg";
+import steamJacuzziArea from "@/assets/featuredpropertiesimages/steam jacuzzi area.png";
+import fourthListing from "@/assets/featuredpropertiesimages/fourth listing.jpg";
+import fifthListing from "@/assets/featuredpropertiesimages/fifth listing.jpg";
+
 const featuredProperties= [
   {
     id: 1,
     name: "Family-Friendly home | Hot Tub Fire Pit & More",
     location: "Langley , Canada",
-    image: "src/assets/featuredpropertiesimages/firepit lounge.png",
+    image: firepitLounge,
     price: 1000,
     bedrooms: 7,
     bathrooms: 4,
@@ -21,8 +28,7 @@ const featuredProperties= [
     id: 2,
     name: "Entertainment Haven | Hot Tub, Fire-Pit & More",
     location: "Langley , Canada",
-    image:
-      "src/assets/featuredpropertiesimages/second listing.jpg",
+    image: secondListing,
     price: 400,
     bedrooms: 4,
     bathrooms: 2,
@@ -33,8 +39,7 @@ const featuredProperties= [
     id: 3,
     name: "A Beautiful Home for Lasting Memories",
     location: "Langley , Canada",
-    image:
-      "src/assets/featuredpropertiesimages/steam jacuzzi area.png",
+    image: steamJacuzziArea,
     price: 600,
     bedrooms: 5,
     bathrooms: 3,
@@ -45,8 +50,7 @@ const featuredProperties= [
     id: 4,
     name: "4BR Side Coach House with Fire Pit & Theatre",
     location:"Langley , Canada",
-    image:
-      "src/assets/featuredpropertiesimages/fourth listing.jpg",
+    image: fourthListing,
     price: 300,
     bedrooms: 4,
     bathrooms: 2,
@@ -57,8 +61,7 @@ const featuredProperties= [
     id: 5,
     name: "Play, Relax & Unwind | Hot Tub, Fire-Pit and More",
     location: "Langley , Canada",
-    image:
-      "src/assets/featuredpropertiesimages/fifth listing.jpg",
+    image: fifthListing,
     price: 300,
     bedrooms: 3,
     bathrooms: 2,
