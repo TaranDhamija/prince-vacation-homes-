@@ -24,7 +24,7 @@ const reviews: Review[] = [
   },
   {
     id: 2,
-    guestName: "Majid.",
+    guestName: "Natalie.",
     rating: 4.5,
     reviewText: "The house was spotless, enough accommodation and beautifully decorated. The host is very responsive. Thanks Prince",
     location: "Stayed in Langley",
@@ -59,7 +59,7 @@ const reviews: Review[] = [
   },
   {
     id: 7,
-    guestName: "Meera.",
+    guestName: "Chris.",
     rating: 5,
     reviewText: "This place felt like home. Every detail was thoughtfully planned.",
     location: "Stayed in Langley",

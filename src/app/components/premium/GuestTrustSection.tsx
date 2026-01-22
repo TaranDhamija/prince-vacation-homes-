@@ -49,7 +49,7 @@ export function GuestTrustSection() {
               </div>
               <div>
                 <div className="flex items-center gap-2 mb-2">
-                  <span className="text-4xl lg:text-5xl text-[#C2A875]">4.8</span>
+                  <span className="text-4xl lg:text-5xl text-[#C2A875]">4.9</span>
                   <Star className="w-8 h-8 text-[#C2A875] fill-[#C2A875]" />
                 </div>
                 <div className="text-lg text-[#7A6A5A]">Average Rating</div>
