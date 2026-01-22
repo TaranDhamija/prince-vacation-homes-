@@ -166,10 +166,10 @@ export function PartnersPage() {
                 <TrendingUp className="w-7 h-7 text-[#C2A875]" />
               </div>
               <h4 className="text-xl text-[#3A2F25] mb-3 font-semibold">
-                Safeguards Your Earning Potential
+                Safeguard Your Earning Potential
               </h4>
               <p className="text-[#7A6A5A] leading-relaxed">
-                Our strategy enhances your returns while protecting you from the financial impact of incidental in-stay damages.
+                Our strategy enhances your returns while protecting you from the financial impact of in-stay damages.
               </p>
             </div>
 
