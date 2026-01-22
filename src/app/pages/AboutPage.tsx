@@ -101,7 +101,7 @@ export function AboutPage() {
               </div>
               <h3 className="text-xl text-[#3A2F25] mb-3">Innovation</h3>
               <p className="text-[#7A6A5A]">
-                We embrace curiosity and continuous improvement to deliver smarter, more effective solutions.
+                We embrace curiosity and continuous improvement to deliver smarter, more effective solutions
               </p>
             </div>
           </div>
