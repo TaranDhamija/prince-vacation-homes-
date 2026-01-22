@@ -160,16 +160,16 @@ export function PartnersPage() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto">
-            {/* Card 1: Boost Revenue */}
+            {/* Card 1: Safeguards Your Earning Potential */}
             <div className="bg-white rounded-2xl p-8 shadow-sm hover:shadow-md transition-shadow">
               <div className="w-14 h-14 rounded-full bg-[#C2A875]/10 flex items-center justify-center mb-6">
                 <TrendingUp className="w-7 h-7 text-[#C2A875]" />
               </div>
               <h4 className="text-xl text-[#3A2F25] mb-3 font-semibold">
-                Boost Revenue
+                Safeguards Your Earning Potential
               </h4>
               <p className="text-[#7A6A5A] leading-relaxed">
-                Mark up plan costs as an additional fee for guests. Increase conversion of prospects by eliminating security deposits.
+                Our strategy enhances your returns while protecting you from the financial impact of incidental in-stay damages.
               </p>
             </div>
 

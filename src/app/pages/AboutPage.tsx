@@ -1,4 +1,4 @@
-import { Award, Heart, Users, Globe } from "lucide-react";
+import { Award, Heart, Users, Lightbulb } from "lucide-react";
 import { Link } from "react-router-dom";
 import { GuestTrustSection } from "@/app/components/premium/GuestTrustSection";
 import logo from "@/assets/logo.png";
@@ -23,7 +23,8 @@ export function AboutPage() {
       <section className="py-20 bg-white">
         <div className="max-w-[1440px] mx-auto px-8 lg:px-16">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-            <div>
+            {/* Text Content - Order 2 on mobile, Order 1 on desktop */}
+            <div className="order-2 lg:order-1">
               <h2 className="text-4xl text-[#3A2F25] mb-6">Our Story</h2>
               <div className="space-y-4 text-lg text-[#7A6A5A] leading-relaxed">
                 <p>
@@ -40,7 +41,8 @@ export function AboutPage() {
                 </p>
               </div>
             </div>
-            <div className="relative flex items-center justify-center py-4">
+            {/* Logo - Order 1 on mobile, Order 2 on desktop */}
+            <div className="relative flex items-center justify-center py-4 order-1 lg:order-2">
               <img
                 src={logo}
                 alt="Prince Vacation Homes"
@@ -95,11 +97,11 @@ export function AboutPage() {
 
             <div className="bg-white rounded-2xl p-8 text-center">
               <div className="w-16 h-16 rounded-full bg-[#C2A875]/10 flex items-center justify-center mx-auto mb-6">
-                <Globe className="w-8 h-8 text-[#C2A875]" />
+                <Lightbulb className="w-8 h-8 text-[#C2A875]" />
               </div>
-              <h3 className="text-xl text-[#3A2F25] mb-3">Sustainability</h3>
+              <h3 className="text-xl text-[#3A2F25] mb-3">Innovation</h3>
               <p className="text-[#7A6A5A]">
-                We promote responsible travel and eco-friendly accommodations
+                We embrace curiosity and continuous improvement to deliver smarter, more effective solutions.
               </p>
             </div>
           </div>
