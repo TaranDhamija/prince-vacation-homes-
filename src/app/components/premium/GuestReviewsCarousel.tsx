@@ -31,14 +31,14 @@ const reviews: Review[] = [
   },
   {
     id: 3,
-    guestName: "Puja.",
+    guestName: "Aneet .",
     rating: 5,
     reviewText: "we had a good time staying at Prince's place. it was very big spacious and kid friendly. he was very responsive and communicated clearly so it all went smoothly. will recommend his place to everyone considering it.",
     location: "Stayed in Langley",
   },
   {
     id: 4,
-    guestName: "Arjun.",
+    guestName: "Paul.",
     rating: 5,
     reviewText: "Exceeded all expectations! The property was even better than the photos. Highly recommend for anyone looking for luxury and comfort.",
     location: "Stayed in Langley",
@@ -52,7 +52,7 @@ const reviews: Review[] = [
   },
   {
     id: 6,
-    guestName: "Ritika.",
+    guestName: "Martin.",
     rating: 4.5,
     reviewText: "Wonderful stay! The home was spacious, clean, and beautifully decorated. Great location and very responsive hosts.",
     location: "Stayed in Langley",
@@ -66,14 +66,14 @@ const reviews: Review[] = [
   },
   {
     id: 8,
-    guestName: "Arjun.",
+    guestName: "Cary.",
     rating: 5,
     reviewText: "A truly luxurious experience. The property is gorgeous. We'll definitely be back.",
     location: "Stayed in Langley",
   },
   {
     id: 9,
-    guestName: "Divya M.",
+    guestName: "Natasha.",
     rating: 5,
     reviewText: "From booking to checkout, everything was seamless. The property exceeded our expectations in every way. Highly recommended!",
     location: "Stayed in Langley",
