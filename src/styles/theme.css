@@ -331,7 +331,7 @@
   }
 
   .animate-scroll-amenities {
-    animation: scroll-amenities 30s linear infinite;
+    animation: scroll-amenities 5s linear infinite;
   }
 
   /* Respect reduced motion preferences */
