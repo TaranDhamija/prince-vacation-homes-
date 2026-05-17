@@ -120,7 +120,7 @@ export function AboutPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://princevacationhomes.guestybookings.com/en/properties?minOccupancy=1"
+              href="https://bookings.princevacationhomes.com/en/properties?minOccupancy=1"
               target="_blank"
               rel="noopener noreferrer"
               className="px-10 py-4 bg-white text-[#C2A875] rounded-full hover:bg-[#FBF6EF] transition-all text-lg shadow-xl inline-block text-center"

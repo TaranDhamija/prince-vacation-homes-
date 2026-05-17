@@ -89,7 +89,7 @@ export function PremiumFooter() {
               </li>
               <li>
                 <a
-                  href="https://princevacationhomes.guestybookings.com/en/properties?minOccupancy=1"
+                  href="https://bookings.princevacationhomes.com/en/properties?minOccupancy=1"
                   target="_blank"
                   className="hover:text-white transition-colors"
                 >

@@ -16,7 +16,7 @@ export function CTASection() {
         <Button
           onClick={() =>
             window.open(
-              "https://princevacationhomes.guestybookings.com/en/properties?minOccupancy=1",
+              "https://bookings.princevacationhomes.com/en/properties?minOccupancy=1",
               "_blank",
             )
           }
