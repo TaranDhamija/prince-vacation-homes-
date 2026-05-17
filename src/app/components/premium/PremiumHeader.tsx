@@ -38,7 +38,7 @@ export function PremiumHeader() {
               Home
             </Link>
             <a
-              href="https://princevacationhomes.guestybookings.com/en/properties?minOccupancy=1"
+              href="https://bookings.princevacationhomes.com/en/properties?minOccupancy=1"
               target="_blank"
               className="text-[#7A6A5A] hover:text-[#C2A875] transition-colors"
             >

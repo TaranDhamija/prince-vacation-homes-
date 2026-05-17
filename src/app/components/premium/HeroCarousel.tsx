@@ -11,7 +11,7 @@ import { cn } from "@/app/components/ui/utils";
 import { HeroCarousel as HeroImageCarousel } from "@/components/hero/HeroCarousel";
 
 const BASE_URL =
-  "https://princevacationhomes.guestybookings.com/en/properties";
+  "https://bookings.princevacationhomes.com/en/properties";
 
 type BookingSearchBarProps = {
   checkInDate: Date | undefined;
